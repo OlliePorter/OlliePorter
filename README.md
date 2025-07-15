@@ -2,7 +2,7 @@
 
 <img width="240px" alt="cover-photo" src="https://github.com/user-attachments/assets/dc0d8aee-d215-4477-82cd-b7041f44ec23" />
 
-Front-end software engineer with 6 years of experience building polished, user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.
+Front-end software engineer with a track record of delivering high-impact results in industries such as finance, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.
 
 [View My Portfolio Website](https://oliver-porter.com/)
 
